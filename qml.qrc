@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 1 (29-11-2017 23-04).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 14 (29-11-2017 23-09).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 2 (29-11-2017 23-05).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 3 (29-11-2017 23-06).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 4 (29-11-2017 23-06).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 6 (29-11-2017 23-06).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 7 (29-11-2017 23-07).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 8 (29-11-2017 23-07).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 9 (29-11-2017 23-08).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 10 (29-11-2017 23-08).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 13 (29-11-2017 23-09).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 16 (29-11-2017 23-10).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 17 (29-11-2017 23-10).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 18 (29-11-2017 23-11).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 19 (29-11-2017 23-11).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 20 (29-11-2017 23-11).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 21 (29-11-2017 23-11).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 22 (29-11-2017 23-11).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 23 (29-11-2017 23-12).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 24 (29-11-2017 23-12).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 25 (29-11-2017 23-12).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 26 (29-11-2017 23-12).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 28 (29-11-2017 23-13).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 29 (29-11-2017 23-13).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 30 (29-11-2017 23-14).png</file>
+        <file>../../Pictures/Saved Pictures/Snapshot 31 (29-11-2017 23-14).png</file>
+    </qresource>
+</RCC>
